@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Laravel and ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://ferryiqbalrhamdani.github.io/](https://ferryiqbalrhamdani.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ferryiqbalrhamdani?tab=repositories/](https://github.com/ferryiqbalrhamdani?tab=repositories/)
+
+- 👨‍💻 My website are available at [https://ferryiqbalrhamdani.github.io/](https://ferryiqbalrhamdani.github.io/)
 
 - 📫 How to reach me **rhamdani128@gmail.com**
 
