@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Surat Izin App](https://github.com/ferryiqbalrhamdani/surat-izin)
 
-- 🌱 I’m currently learning **Laravel and ReactJS**
+- 🌱 I’m currently learning **Laravel and Filament 3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferryiqbalrhamdani?tab=repositories/](https://github.com/ferryiqbalrhamdani?tab=repositories/)
 
