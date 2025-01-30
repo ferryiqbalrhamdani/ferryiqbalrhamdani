@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferry Iqbal Rhamdani</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Surat Izin App](https://github.com/ferryiqbalrhamdani/surat-izin)
+- 🔭 I’m currently working on [Surat Izin App](https://github.com/ferryiqbalrhamdani/filament-approval-aries)
 
 - 🌱 I’m currently learning **Laravel and Filament 3**
 
